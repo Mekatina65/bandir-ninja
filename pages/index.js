@@ -11,7 +11,7 @@ export default function Home() {
    <p className={styles.text}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur veniam enim quibusdam consectetur dolores nisi nemo. Sed similique incidunt id!</p>
    <p className={styles.text}> Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia vel quaerat ut! Quo quam, dicta maxime mollitia architecto nesciunt laudantium odit? Cum voluptate voluptas incidunt.</p>
    <Link href="/ninjas">
-     <a className={styles.btn}>See Ninja Listing</a>
+     <a className={styles.btn}>See New Employee Listing</a>
    </Link>
      </div>
   )
