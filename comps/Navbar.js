@@ -4,12 +4,12 @@ const Navbar = () => {
 
         <nav>
             <div className="logo">
-                <h1>Ninja List</h1>
+                <h1>New Employee List</h1>
                 
             </div>
        <Link href="/"><a>Home</a></Link> 
        <Link href="/about"><a>About</a></Link> 
-       <Link href="/ninjas"><a>Ninjas Listing</a></Link> 
+       <Link href="/ninjas"><a> List new employees</a></Link> 
         
         </nav>
      );
